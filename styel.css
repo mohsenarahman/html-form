@@ -1,0 +1,65 @@
+*{
+
+    margin: 0px;
+    padding: 10px;
+}
+.flex-box1 h1{
+
+    color: rgb(4, 11, 112);
+    text-align: center;
+    padding: 20px;
+    font-size: 45px;
+}
+.flex-box h2{
+    text-align: center;
+    color: white;
+    background-color: #057fe2;
+}
+
+.logo img{
+    width: 500px;
+    height: auto;
+    padding-left: 300px;
+}
+
+.btn button{
+    color: #fff;
+    background-color: #1721e8;
+    font: 14px;
+    border: 1px solid #1721e8;
+    border-radius: 8px 0px 8px 0px;
+    padding: 8px 16px;
+
+
+}
+.menu ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+}
+
+.menu ul li a { 
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(251, 251, 251);
+    text-transform: capitalize;
+    background-color: #120162a3;
+    border-radius: 8px;
+}
+
+.btn1 button{
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #000 ;
+    font-size: 10px;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+   
+
+
+ 
+
+ 
